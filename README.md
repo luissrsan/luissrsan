@@ -13,7 +13,7 @@ and then moved on to Angela Yu's Full Stack Development Bootcamp
 after finishing the course i decided to take another one of her courses 
 and i am currently taking her 100 Days of Python course on Udemy 
 
-Some of my projects 
+Some of my projects :
 Cookie Clicker : https://theluissantiago.github.io/Cookie-Clicker-/
 
 A Poem is A Game : https://theluissantiago.github.io/A-poem-is-a-game-/
