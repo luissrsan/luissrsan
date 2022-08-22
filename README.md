@@ -18,3 +18,4 @@ Cookie Clicker : https://theluissantiago.github.io/Cookie-Clicker-/
 
 A Poem is A Game : https://theluissantiago.github.io/A-poem-is-a-game-/
 
+demo CV: https://theluissantiago.github.io/cv/
