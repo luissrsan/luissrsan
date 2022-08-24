@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @theluissantiago
+- 📓 I'm Studying Computer Graphics and Imaging
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning Python, C++ and Processing 
 - 💞️ I’m looking to collaborate on Games/websites/apps
