@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theluissantiago
+- 👋 Hi, I’m @lululegendd
 - 📓 I'm An Undergrad Studying Computer Graphics and Imaging
 - 👀 I’m interested in software development 
 - 💞️ I’m looking to collaborate on Games/websites/apps
