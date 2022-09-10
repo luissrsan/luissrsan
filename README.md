@@ -8,4 +8,4 @@
 
 my projects :
 
-A Poem is A Game : https://github.com/Lululegendd/A-poem-is-a-game-
+A Poem is A Game : https://lululegendd.github.io/A-poem-is-a-game-/
