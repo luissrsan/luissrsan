@@ -10,8 +10,10 @@ my projects :
  
 
 A Poem is A Game  :https://luisrsantiago.github.io/A-poem-is-a-game-/
-
+I designed a game as a gift to myself 
 
 Cookie Clicker : https://luisrsantiago.github.io/Cookie-Clicker-/
+Simple Clicker clicker website with a two buttons and a counter 
 
 Daily Dive : https://luisrsantiago.github.io/DailyDive/
+Final Project for my World Wide Web Class 
