@@ -15,7 +15,7 @@ I designed a game as a gift to myself using Bitsy Game Maker
 
 Cookie Clicker : https://luisrsantiago.github.io/Cookie-Clicker-/
 
-Simple Clicker clicker website with two buttons and a counter 
+Simple cookie clicker website with two buttons and a counter 
 
 Daily Dive : https://luisrsantiago.github.io/DailyDive/
 
