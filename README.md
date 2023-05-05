@@ -15,7 +15,7 @@ I designed a game as a gift to myself
 
 Cookie Clicker : https://luisrsantiago.github.io/Cookie-Clicker-/
 
-Simple Clicker clicker website with a two buttons and a counter 
+Simple Clicker clicker website with two buttons and a counter 
 
 Daily Dive : https://luisrsantiago.github.io/DailyDive/
 
