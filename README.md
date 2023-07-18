@@ -5,7 +5,7 @@
 - my projects :
  
 
-A Poem is A Game  :https://luisrsantiago.github.io/A-poem-is-a-game-/
+A Poem is A Game  :    https://luissrsan.github.io/A-poem-is-a-game-/
 
 I designed a game as a gift to myself using Bitsy Game Maker 
 
