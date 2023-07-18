@@ -13,10 +13,9 @@ Cookie Clicker : https://luisrsantiago.github.io/Cookie-Clicker-/
 
 Simple cookie clicker website with two buttons and a counter 
 
-Daily Dive : https://luisrsantiago.github.io/DailyDive/
+Daily Dive :  https://luissrsan.github.io/DailyDive/
 
 Final Project for my World Wide Web Class 
 
-Portfolio Website
-https://luissrsan.github.io/Portfolio/
+Portfolio Website :   https://luissrsan.github.io/Portfolio/
 
