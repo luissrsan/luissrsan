@@ -6,9 +6,8 @@
 - my projects :
  
 
-A Poem is A Game  :    https://luissrsan.github.io/A-poem-is-a-game-/
 
-I designed a game as a gift to myself using Bitsy Game Maker 
+
 
 Cookie Clicker :  https://luissrsan.github.io/Cookie-Clicker-/
 
