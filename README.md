@@ -19,6 +19,5 @@ Daily Dive :  https://luissrsan.github.io/DailyDive/
 
 Final Project for my World Wide Web Class 
 
-Portfolio Website :   https://luissrsan.github.io/Portfolio/
 
-My Portfolio Website with creative work samples
+
