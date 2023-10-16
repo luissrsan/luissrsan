@@ -10,14 +10,3 @@ Reach out to me @luissrsan@gmail.com
 
 
 
-
-Cookie Clicker :  https://luissrsan.github.io/Cookie-Clicker-/
-
-Simple cookie clicker website with two buttons and a counter 
-
-Daily Dive :  https://luissrsan.github.io/DailyDive/
-
-Final Project for my World Wide Web Class 
-
-
-
