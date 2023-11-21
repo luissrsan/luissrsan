@@ -3,7 +3,7 @@
 - I know Javascript,Python,Java ,HTML and CSS
 - Flask,Node.js
 - Currently Learning React 
-Reach out to me @luissrsan@gmail.com
+- Reach out to me @luissrsan@gmail.com
 
 
 - my projects :
