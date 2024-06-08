@@ -12,3 +12,5 @@ https://luissrsan.github.io/3-column-preview/
 https://luissrsan.github.io/order-summary-component/
 
 https://luissrsan.github.io/Recipe/
+
+https://luissrsan.github.io/blogpreview/
