@@ -3,7 +3,7 @@
  
 
 
-Front End Mentor Challenges 
+Front End Mentor Challenges:
 QR Code Component
 https://luissrsan.github.io/QR-CODE-Component/
 3-Column-preview
