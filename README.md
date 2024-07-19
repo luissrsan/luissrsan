@@ -4,9 +4,10 @@
 I Recently Graduted with A Bachelors of Science in Computer Graphics and Imaging 
 from Lehman College . With spealizations in CGI,Animation and Web programming,
 
+Landing Page :
 https://luisrsantiago.netlify.app
 
-Work Samples:
+Artstation :
 https://www.artstation.com/luissrsan
-Links to portfolio below 
+Adobe Portfolio
 https://emotrinket.myportfolio.com
