@@ -9,5 +9,5 @@ https://luisrsantiago.netlify.app
 
 Artstation :
 https://www.artstation.com/luissrsan
-Adobe Portfolio
+Adobe Portfolio:
 https://emotrinket.myportfolio.com
