@@ -8,4 +8,4 @@ from Lehman College . With spealizations in CGI,Animation and Web programming,
 
 Work Samples:
 https://www.artstation.com/luissrsan
-emotrinket.myportfolio.com
+https://emotrinket.myportfolio.com
