@@ -6,8 +6,7 @@
  Currently learning data science and machine learning 
 
 
- 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luissrsan&show_icons=true)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/luissrsan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luissrsan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luissrsan) 
