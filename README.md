@@ -2,7 +2,7 @@
 ## Hi , I'm Luis !
 
  Full Stack Engineer sharing my journey and learnings in tech <br/>
- Studied [Computer Graphics and Imaging]at Lehman College <br/>
+ Studied [Computer Graphics and Imaging] at Lehman College <br/>
  Currently learning data science and machine learning 
 
 
@@ -19,8 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luissrsan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luissrsan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=luissrsan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
