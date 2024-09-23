@@ -5,7 +5,7 @@
  Studied [Computer Graphics and Imaging] at Lehman College <br/>
  Currently learning data science and machine learning 
 
-
+https://luissrsan.wordpress.com
 
 
 ## 🌐 Socials:
