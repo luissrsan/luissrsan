@@ -3,7 +3,7 @@
 
  Full Stack Engineer/Aspiring Video Game Designer sharing my journey and learnings in tech <br/>
  Studied [Computer Graphics and Imaging] at Lehman College <br/>
- Currently learning data science and machine learning 
+
 
 https://luissrsan.wordpress.com
 
