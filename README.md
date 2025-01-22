@@ -1,7 +1,7 @@
 
 ## Hi , I'm Luis !
 
- Full Stack Engineer/Aspiring Video Game Designer sharing my journey and learnings in tech <br/>
+ Full Stack Engineer/ sharing my journey and learnings in tech <br/>
  Studied [Computer Graphics and Imaging] at Lehman College <br/>
 
 
