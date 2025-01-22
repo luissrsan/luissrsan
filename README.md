@@ -4,7 +4,7 @@
  Full Stack Engineer/ sharing my journey and learnings in tech <br/>
  Studied [Computer Graphics and Imaging] at Lehman College <br/>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luissrsan)](https://github.com/luissrsan/github-readme-stats)
 https://luissrsan.wordpress.com
 
 
