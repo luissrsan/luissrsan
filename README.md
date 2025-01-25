@@ -1,7 +1,7 @@
 
 ## Hi , I'm Luis !
 
- Full Stack Engineer/And Aspiring WEB 3/Blockchain developer 
+ Full Stack Engineer
  sharing my journey and learnings in tech <br/>
  Studied [Computer Graphics and Imaging] at Lehman College <br/>
 
