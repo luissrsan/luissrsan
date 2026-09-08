@@ -1,5 +1,5 @@
 
-Hi , I'm Luis !
+Hi , I'm Luis Santiago !
  
 
  Studied [Computer Graphics and Imaging] at Lehman College <br/>
